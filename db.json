@@ -1,0 +1,184 @@
+{
+  "Questions": [
+    {
+      "question": "(Category: 1) What kind of programming language is Java?",
+      "choice1": "An object-oriented programming language",
+      "choice2": "An array programming language",
+      "choice3": "A logic programming language",
+      "choice4": "Don't know",
+      "answer": 1,
+      "answerData": "An object-oriented programming language"
+    },
+    {
+      "question": "Which statement is used to throw an exception explicitly?",
+      "choice1": "if",
+      "choice2": "Catch",
+      "choice3": "Throw",
+      "choice4": "None of them",
+      "answer": 3,
+      "answerData": "Throw"
+    },
+    {
+      "question": "What does the expression float a = 35 / 0 return?",
+      "choice1": "Run time exception",
+      "choice2": "0",
+      "choice3": "Not a number",
+      "choice4": "Infinity",
+      "answer": 4,
+      "answerData": "Infinity"
+    },
+    {
+      "question": "Which of the following is not a Java features?",
+      "choice1": "Dynamic",
+      "choice2": "Architecture Neutral",
+      "choice3": "Use of pointers",
+      "choice4": "Object-oriented",
+      "answer": 3,
+      "answerData": "Use of pointers"
+    },
+    {
+      "question": "Which package contains the Random class?",
+      "choice1": "java.util package",
+      "choice2": "java.lang package",
+      "choice3": "java.awt package",
+      "choice4": "java.io package",
+      "answer": 1,
+      "answerData": "java.util package"
+    },
+    {
+      "question": "In which access modifier means the field can be accessed by all classes in your application?",
+      "choice1": "Private",
+      "choice2": "Public",
+      "choice3": "Package",
+      "choice4": "Protected",
+      "answer": 2,
+      "answerData": "Public"
+    },
+    {
+      "question": "What can be accessed or inherited without actual copy of code to each program?",
+      "choice1": "Browser",
+      "choice2": "Applet",
+      "choice3": "Package",
+      "choice4": "None of them",
+      "answer": 3,
+      "answerData": "Package"
+    },
+    {
+      "question": "What's the extension for a compiled Java file?",
+      "choice1": ".class",
+      "choice2": ".java",
+      "choice3": ".XML",
+      "choice4": ".exe",
+      "answer": 1,
+      "answerData": ".class"
+    },
+    {
+      "question": "What is a variable?",
+      "choice1": "An unpredictable element in a Java program",
+      "choice2": "A program that can run fast or slow depending on user input",
+      "choice3": "A way to hold data temporarily in a program",
+      "choice4": "None of them",
+      "answer": 3,
+      "answerData": "A way to hold data temporarily in a program"
+    },
+    {
+      "question": "Which of the following for loop declaration is not valid?",
+      "choice1": "for ( int i = 99; i >= 0; i / 9 )",
+      "choice2": "for ( int i = 7; i <= 77; i += 7 )",
+      "choice3": "for ( int i = 20; i >= 2; - -i )",
+      "choice4": "for ( int i = 2; i <= 20; i = 2* i )",
+      "answer": 1,
+      "answerData": "for ( int i = 99; i >= 0; i / 9 )"
+    },
+    {
+      "question": "(Category: 2) System.out.println(''0'') this statement will display what? (click next button to enter your answer)",
+      "choice1": "",
+      "choice2": "",
+      "choice3": "",
+      "choice4": "",
+      "answer": "",
+      "answerData": "0"
+    },
+    {
+      "question": "(Category: 3) JDBC is a Java API that is used to connect and execute query to the database.",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 1,
+      "answerData": "True"
+    },
+    {
+      "question": "Thread class constructor allocates a new thread object.",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 1,
+      "answerData": "True"
+    },
+    {
+      "question": "The ActionListener interface is not used for handling action events.",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 2,
+      "answerData": "False"
+    },
+    {
+      "question": "Interceptor can change the flow of the application by returning the string",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 1,
+      "answerData": "True"
+    },
+    {
+      "question": "(Category: 4) What will be output of x in following code? static void main(String[] args) { int x = 1; if (x == 1) { x = x + 1} } }",
+      "choice1": "0",
+      "choice2": "1",
+      "choice3": "2",
+      "choice4": "3",
+      "answer": 3,
+      "answerData": "2"
+    },
+    {
+      "question": "What will be the output of x in following code? int x=10 ; static int fun() {  return x -= 5 ; }",
+      "choice1": "Error",
+      "choice2": "9",
+      "choice3": "4",
+      "choice4": "5",
+      "answer": 4,
+      "answerData": "5"
+    },
+    {
+      "question": "What will be the output of x in following code? int x ; static int fun() {  return ++x; }",
+      "choice1": "Error",
+      "choice2": "1",
+      "choice3": "0",
+      "choice4": "Garbage data",
+      "answer": 2,
+      "answerData": "1"
+    },
+    {
+      "question": "(Category: 5) A _____ is a collection of classes and interfaces. (click next button to enter your answer)",
+      "choice1": "",
+      "choice2": "",
+      "choice3": "",
+      "choice4": "",
+      "answer": "",
+      "answerData": "package"
+    },
+    {
+      "question": "_____ is used to find and fix bugs in the Java programs?",
+      "choice1": "JVM",
+      "choice2": "JRE",
+      "choice3": "SDK",
+      "choice4": "JDB",
+      "answer": 4,
+      "answerData": "JDB"
+    }
+  ]
+}
